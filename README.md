@@ -29,7 +29,7 @@ Maintaining that file by hand across multiple machines is tedious. bw2ssh genera
 
 ```bash
 # Clone the repo
-git clone https://github.com/<you>/bw2ssh.git
+git clone https://github.com/lzukanovic/bw2ssh.git
 
 # System-wide (requires sudo)
 sudo install -m 755 bw2ssh/bw2ssh.py /usr/local/bin/bw2ssh
